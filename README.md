@@ -1,5 +1,3 @@
-## Cypress iFrame example
+## Cypress iFrame
 
-Woohoo! Got cypress working in an iframe!!
-
-Check out the [~Test~](app/cypress/integration/iframe.spec.js) for the test code, the [~Custom Commands~](app/cypress/support/commands.js), and the [~Config~](app/cypress.json)
+Check out the [~Test~](iframe/cypress/integration/iframe.spec.js), the [~Custom Commands~](iframe/cypress/support/commands.js), and the [~Config~](iframe/cypress.json)
